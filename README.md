@@ -1,22 +1,9 @@
-# JSON_Server_Deployment
+# Fashion-Fabrics Server
 
+This repository contains a JSON server setup for an e-commerce website, created using json-server. It includes sample JSON data representing products, categories, users, orders, and other essential entities for an e-commerce platform.
 
-
-
-By utilizing the provided template, you will be able to create your JSON server repository, which can be deployed on render.com
---------------
-
-
-[![Nice UI](https://img.youtube.com/vi/W9sbA1a2-Ag/0.jpg)](https://www.youtube.com/watch?v=W9sbA1a2-Ag)
-
-
-In this video, I have covered three simple steps to quickly deploy your **JSON Server** on render.com.
-
-Three Simple Steps:
-
-1. Create a repository from the template.
-2. Add your own data.
-3. Deploy it.
-
-Believe me, this is the **easiest way** to deploy your JSON server on render.com. Deploy your db.json file without writing a **single line of code**.
-
+## Features
+- E-commerce API: A fully functional RESTful API to simulate an e-commerce backend.
+- JSON Data: Sample data for products, categories, users, and orders.
+- Easy Setup: Simple to set up and run locally for development and testing.
+- CRUD Operations: Supports Create, Read, Update, and Delete operations for all entities.
