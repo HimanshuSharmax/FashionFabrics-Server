@@ -1,36 +1,1215 @@
 {
   "maincategory": [
     {
-      "id": "493c",
-      "name": "Kids",
-      "active": true
-    },
-    {
       "id": "dbfa",
-      "name": "Male",
+      "name": "Men",
       "active": true
     },
     {
       "id": "5dca",
-      "name": "Female",
+      "name": "Women",
       "active": true
     },
     {
-      "id": "37dc",
-      "name": "Wear",
-      "active": false
-    },
-    {
-      "id": "57fc",
-      "name": "Wears",
-      "active": false
+      "id": "493c",
+      "name": "Kids",
+      "active": true
     }
   ],
-  "subcategory": [],
-  "brand": [],
-  "product": [],
-  "testimonial": [],
-  "user": [],
+  "subcategory": [
+    {
+      "id": "ef0f",
+      "name": "Shirt",
+      "active": true
+    },
+    {
+      "id": "484b",
+      "name": "Jeans",
+      "active": true
+    },
+    {
+      "id": "0718",
+      "name": "Shoes",
+      "active": true
+    },
+    {
+      "id": "8034",
+      "name": "Suits",
+      "active": true
+    },
+    {
+      "id": "4cd1",
+      "name": "Heels",
+      "active": true
+    },
+    {
+      "id": "cc56",
+      "name": "T-shirt",
+      "active": true
+    }
+  ],
+  "brand": [
+    {
+      "id": "30b6",
+      "name": "Zara",
+      "pic": "/brands/puma.jpg",
+      "active": true
+    },
+    {
+      "id": "796c",
+      "name": "Adidas",
+      "pic": "/brands/adidas.png",
+      "active": true
+    },
+    {
+      "id": "492e",
+      "name": "Cobb",
+      "pic": "/brands/cobb.png",
+      "active": true
+    },
+    {
+      "id": "5224",
+      "name": "Mufti",
+      "pic": "/brands/mufti.png",
+      "active": true
+    },
+    {
+      "id": "cf7f",
+      "name": "Nike",
+      "pic": "/brands/nike.png",
+      "active": true
+    },
+    {
+      "id": "24b7",
+      "name": "Tommy Hilfiger",
+      "pic": "/brands/tommy-hilfiger.png",
+      "active": true
+    },
+    {
+      "id": "8fa0",
+      "name": "US Polo",
+      "pic": "/brands/uspolo.jpg",
+      "active": true
+    },
+    {
+      "id": "a2a9",
+      "name": "Puma",
+      "pic": "/brands/puma.jpg",
+      "active": true
+    },
+    {
+      "id": "75c7",
+      "name": "Gucci",
+      "pic": "/brands/gucci.png",
+      "active": true
+    }
+  ],
+  "product": [
+    {
+      "id": "0ea0",
+      "name": "Men Straight Carpenter Fit",
+      "maincategory": "Men",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Black",
+      "size": "XL",
+      "basePrice": 2645,
+      "discount": 12,
+      "finalPrice": 2327,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>A modern slim with room to move, the 511 Slim Fit Stretch Jeans are a classic, you can wear with anything. Complete your casual wardrobe with a splash of style with these 511 slim fit jeans from Levi's. Cut in a cotton fabric with the right amount of stretch, these light blue jeans in solid pattern can be paired with most things to create a super cool outfit.</p>\r\n\n\r\n<ul><li>&nbsp;These jeans sit low waist with a slim fit from hip to ankle.</li><li>&nbsp;It is woven, with a hint of stretch, to deliver maximum comfort.</li><li>&nbsp;Cut close to the body, the 511 Slim is a great alternative to the skinny jeans.</li></ul>\r\n\n\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n\n\r\n<ul><li>98% Cotton 2% Elastane</li><li><span style=\"font-weight: bold;\">Machine wash cold</span> - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration\t</li></ul>\r\n\n\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details</span></p>\r\n\n\r\n<ul><li>Country Of Origin: India</li><li>&nbsp;Manufactured By: Arvind Limited Mysore Road 26/2 &amp; 27/2; Kenchenahalli; 560059 Bangalore India\nMarketed By:\\</li><li>&nbsp;Marketed by: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India<br /></li></ul>",
+      "pic": [
+        "/products/maleJeans1a.jpg",
+        "/products/maleJeans1b.jpg",
+        "/products/maleJeans1c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "bef3",
+      "name": "MEN'S DARK INDIGO SLIM FIT",
+      "maincategory": "Men",
+      "subcategory": "Jeans",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "L",
+      "basePrice": 1980,
+      "discount": 10,
+      "finalPrice": 1782,
+      "stock": true,
+      "quantity": 40,
+      "description": "<p>A modern slim with room to move, the 511 slim fit stretch jeans are a classic, you can wear with anything. Complete your casual wardrobe with a splash of style with these 511 slim fit jeans from Levi's. Cut in a cotton blend fabric with the right amount of stretch, these blue jeans in solid pattern can be paired with most things to create a super cool outfit.&nbsp;</p>\r\n<ol><li>These jeans sit low waist with a slim fit from hip to ankle.&nbsp;</li><li>It is woven, with a hint of stretch, to deliver maximum comfort.&nbsp;</li><li>Cut close to the body, the 511 slim is a great alternative to the skinny jeans.&nbsp;</li></ol>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Composition and care&nbsp;</span></p>\r\n<ul><li>77.5% Cotton Bci/20.8% Poly/1.7% Lycra&nbsp;</li><li>Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration&nbsp;</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>Country Of Origin: India&nbsp;</li><li>Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India<br /></li></ul>",
+      "pic": [
+        "/products/maleJeans2a.jpg",
+        "/products/maleJeans2b.jpg",
+        "/products/maleJeans2c.jpg",
+        "/products/maleJeans2d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "c55d",
+      "name": "Men's Slim Tapered Fit Jeans ",
+      "maincategory": "Men",
+      "subcategory": "Shoes",
+      "brand": "Tommy Hilfiger",
+      "color": "Blue",
+      "size": "M",
+      "basePrice": 2400,
+      "discount": 11,
+      "finalPrice": 2136,
+      "stock": true,
+      "quantity": 40,
+      "description": "<p>A modern slim with room to move, the 511 slim fit stretch jeans are a classic, you can wear with anything. Complete your casual wardrobe with a splash of style with these 511 slim fit jeans from Levi's. Cut in a cotton blend fabric with the right amount of stretch, these blue jeans in solid pattern can be paired with most things to create a super cool outfit.</p>\r\n<ol><li>These jeans sit low waist with a slim fit from hip to ankle.</li><li>It is woven, with a hint of stretch, to deliver maximum comfort.</li><li>Cut close to the body, the 511 slim is a great alternative to the skinny jeans.</li></ol>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;<span style=\"font-weight: bold;\">Machine wash cold </span>- normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India<br /></li></ul>",
+      "pic": [
+        "/products/maleJeans3a.jpg",
+        "/products/maleJeans3b.jpg",
+        "/products/maleJeans3c.jpg",
+        "/products/maleJeans3d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "2659",
+      "name": "Men's Light Blue Slim Fit Jeans ",
+      "maincategory": "Men",
+      "subcategory": "Jeans",
+      "brand": "US Polo",
+      "color": "Blue",
+      "size": "L",
+      "basePrice": 3240,
+      "discount": 10,
+      "finalPrice": 2916,
+      "stock": true,
+      "quantity": 35,
+      "description": "<p>A modern slim with room to move, the 511 slim fit stretch jeans are a classic, you can wear with anything. Complete your casual wardrobe with a splash of style with these 511 slim fit jeans from Levi's. Cut in a cotton blend fabric with the right amount of stretch, these blue jeans in solid pattern can be paired with most things to create a super cool outfit.</p>\r\n<ul><li>&nbsp;These jeans sit low waist with a slim fit from hip to ankle.&nbsp;</li><li>It is woven, with a hint of stretch, to deliver maximum comfort.&nbsp;</li><li>Cut close to the body, the 511 slim is a great alternative to the skinny jeans.&nbsp;</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Composition and care&nbsp;</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra&nbsp;</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration&nbsp;</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n</li></ul>",
+      "pic": [
+        "/products/maleJeans4a.jpg",
+        "/products/maleJeans4b.jpg",
+        "/products/maleJeans4c.jpg",
+        "/products/maleJeans4d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "a57b",
+      "name": "Men's Beige Slim Tapered Fit",
+      "maincategory": "Men",
+      "subcategory": "Jeans",
+      "brand": "Gucci",
+      "color": "Beige",
+      "size": "XL",
+      "basePrice": 2739,
+      "discount": 9,
+      "finalPrice": 2492,
+      "stock": true,
+      "quantity": 30,
+      "description": "<p>\nIdeal for work and play, these beige chinos by Levis are a style staple to last through the seasons ahead. Crafted in cotton with a flattering slim tapered fit, this classic pair brings versatility to your wardrobe.</p>\r\n<ol><li>&nbsp;Comes in a solid pattern</li><li>&nbsp;Stylish full featuring mid rise waist<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\"> Composition and care</span></p>\r\n<ul><li>77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India<br /></li></ul>",
+      "pic": [
+        "/products/maleJeans5a.jpeg",
+        "/products/maleJeans5b.jpeg",
+        "/products/maleJeans5c.jpeg",
+        "/products/maleJeans5d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "3350",
+      "name": "Men's Blue Regular Fit Jeans",
+      "maincategory": "Men",
+      "subcategory": "Jeans",
+      "brand": "Puma",
+      "color": "Blue",
+      "size": "L",
+      "basePrice": 3559,
+      "discount": 12,
+      "finalPrice": 3131,
+      "stock": true,
+      "quantity": 56,
+      "description": "<p>A modern slim with room to move, the 511 slim fit stretch jeans are a classic, you can wear with anything. Complete your casual wardrobe with a splash of style with these 511 slim fit jeans from Levi's. Cut in a cotton blend fabric with the right amount of stretch, these blue jeans in solid pattern can be paired with most things to create a super cool outfit.</p>\r\n<ol><li>These jeans sit low waist with a slim fit from hip to ankle.</li><li>It is woven, with a hint of stretch, to deliver maximum comfort.</li><li>Cut close to the body, the 511 slim is a great alternative to the skinny jeans.</li></ol>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration&nbsp;</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>Country Of Origin: India&nbsp;</li><li>Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n\n\n<br /></li></ul>",
+      "pic": [
+        "/products/maleJeans6a.jpg",
+        "/products/maleJeans6b.jpg",
+        "/products/maleJeans6c.jpg",
+        "/products/maleJeans6d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "74ae",
+      "name": "Men Relaxed Fit Jeans",
+      "maincategory": "Men",
+      "subcategory": "Jeans",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "L",
+      "basePrice": 3499,
+      "discount": 11,
+      "finalPrice": 3114,
+      "stock": true,
+      "quantity": 45,
+      "description": "<p>A modern slim with room to move, the 511 slim fit stretch jeans are a classic, you can wear with anything. Complete your casual wardrobe with a splash of style with these 511 slim fit jeans from Levi's. Cut in a cotton blend fabric with the right amount of stretch, these blue jeans in solid pattern can be paired with most things to create a super cool outfit.&nbsp;</p>\r\n<ol><li>&nbsp;These jeans sit low waist with a slim fit from hip to ankle.&nbsp;</li><li>It is woven, with a hint of stretch, to deliver maximum comfort.&nbsp;</li><li>Cut close to the body, the 511 slim is a great alternative to the skinny jeans.</li></ol>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra&nbsp;</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration&nbsp;</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n\n\n<br /></li></ul>",
+      "pic": [
+        "/products/maleJeans7a.jpg",
+        "/products/maleJeans7b.jpg",
+        "/products/maleJeans7c.jpg",
+        "/products/maleJeans7d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "76ae",
+      "name": "Men Pure Cotton Loose Relaxed",
+      "maincategory": "Men",
+      "subcategory": "Jeans",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "L",
+      "basePrice": 3499,
+      "discount": 11,
+      "finalPrice": 3114,
+      "stock": true,
+      "quantity": 45,
+      "description": "<p>A modern slim with room to move, the 511 slim fit stretch jeans are a classic, you can wear with anything. Complete your casual wardrobe with a splash of style with these 511 slim fit jeans from Levi's. Cut in a cotton blend fabric with the right amount of stretch, these blue jeans in solid pattern can be paired with most things to create a super cool outfit.&nbsp;</p>\r\n<ol><li>&nbsp;These jeans sit low waist with a slim fit from hip to ankle.&nbsp;</li><li>It is woven, with a hint of stretch, to deliver maximum comfort.&nbsp;</li><li>Cut close to the body, the 511 slim is a great alternative to the skinny jeans.</li></ol>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra&nbsp;</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration&nbsp;</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n\n\n<br /></li></ul>",
+      "pic": [
+        "/products/maleJeans8a.jpg",
+        "/products/maleJeans8b.jpg",
+        "/products/maleJeans8c.jpg",
+        "/products/maleJeans8d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "038e",
+      "name": "Classic Design Collar Casual Shirt",
+      "maincategory": "Men",
+      "subcategory": "Shirt",
+      "brand": "Zara",
+      "color": "Beige",
+      "size": "M",
+      "basePrice": 1200,
+      "discount": 4,
+      "finalPrice": 1152,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>Class up your essentials with this Levi's shirt. The classic spread collar and plaid pattern lend an elegant touch, while its cotton fabric will keep you comfortable all day long. It is perfect for wearing under a jacket with jeans.</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShirt1a.jpg",
+        "/products/maleShirt1b.jpg",
+        "/products/maleShirt1c.jpg",
+        "/products/maleShirt1d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "349e",
+      "name": "Men Slim Fit Opaque Casual Shirt",
+      "maincategory": "Men",
+      "subcategory": "Shirt",
+      "brand": "Gucci",
+      "color": "White",
+      "size": "L",
+      "basePrice": 1749,
+      "discount": 8,
+      "finalPrice": 1352,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>Class up your essentials with this Levi's shirt. The classic spread collar and plaid pattern lend an elegant touch, while its cotton fabric will keep you comfortable all day long. It is perfect for wearing under a jacket with jeans.</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShirt2a.jpg",
+        "/products/maleShirt2b.jpg",
+        "/products/maleShirt2c.jpg",
+        "/products/maleShirt2d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "292e",
+      "name": "Men Light Blue Solid Regular Fit",
+      "maincategory": "Men",
+      "subcategory": "Shirt",
+      "brand": "Gucci",
+      "color": "Blue",
+      "size": "L",
+      "basePrice": 2449,
+      "discount": 12,
+      "finalPrice": 2047,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>Class up your essentials with this Levi's shirt. The classic spread collar and plaid pattern lend an elegant touch, while its cotton fabric will keep you comfortable all day long. It is perfect for wearing under a jacket with jeans.</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShirt3a.jpg",
+        "/products/maleShirt3b.jpg",
+        "/products/maleShirt3c.jpg",
+        "/products/maleShirt3d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "a823",
+      "name": "Men Checked Casual Shirt",
+      "maincategory": "Men",
+      "subcategory": "Shirt",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "XL",
+      "basePrice": 2849,
+      "discount": 15,
+      "finalPrice": 2170,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>Class up your essentials with this Levi's shirt. The classic spread collar and plaid pattern lend an elegant touch, while its cotton fabric will keep you comfortable all day long. It is perfect for wearing under a jacket with jeans.</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShirt4a.jpg",
+        "/products/maleShirt4b.jpg",
+        "/products/maleShirt4c.jpg",
+        "/products/maleShirt4d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "1r34",
+      "name": "Men Blue Chambray Casual Shirt",
+      "maincategory": "Men",
+      "subcategory": "Shirt",
+      "brand": "Cobb",
+      "color": "Blue",
+      "size": "XL",
+      "basePrice": 2385,
+      "discount": 15,
+      "finalPrice": 1970,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>Class up your essentials with this Levi's shirt. The classic spread collar and plaid pattern lend an elegant touch, while its cotton fabric will keep you comfortable all day long. It is perfect for wearing under a jacket with jeans.</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShirt5a.jpg",
+        "/products/maleShirt5b.jpg",
+        "/products/maleShirt5c.jpg",
+        "/products/maleShirt5d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "29f3",
+      "name": "Men Black Regular Fit Solid",
+      "maincategory": "Men",
+      "subcategory": "Shirt",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "L",
+      "basePrice": 2485,
+      "discount": 12,
+      "finalPrice": 2070,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>Class up your essentials with this Levi's shirt. The classic spread collar and plaid pattern lend an elegant touch, while its cotton fabric will keep you comfortable all day long. It is perfect for wearing under a jacket with jeans.</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShirt6a.jpg",
+        "/products/maleShirt6b.jpg",
+        "/products/maleShirt6c.jpg",
+        "/products/maleShirt6d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "37j2",
+      "name": "Men Relaxed Fit Jeans",
+      "maincategory": "Men",
+      "subcategory": "Shirt",
+      "brand": "Zara",
+      "color": "Red",
+      "size": "M",
+      "basePrice": 1785,
+      "discount": 10,
+      "finalPrice": 1570,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>Class up your essentials with this Levi's shirt. The classic spread collar and plaid pattern lend an elegant touch, while its cotton fabric will keep you comfortable all day long. It is perfect for wearing under a jacket with jeans.</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShirt7a.jpg",
+        "/products/maleShirt7b.jpg",
+        "/products/maleShirt7c.jpg",
+        "/products/maleShirt7d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "32h3",
+      "name": "Abstract Printed Slim Fit Casual Shirt",
+      "maincategory": "Men",
+      "subcategory": "Shirt",
+      "brand": "Gucci",
+      "color": "White",
+      "size": "Xl",
+      "basePrice": 2685,
+      "discount": 8,
+      "finalPrice": 2470,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>Class up your essentials with this Levi's shirt. The classic spread collar and plaid pattern lend an elegant touch, while its cotton fabric will keep you comfortable all day long. It is perfect for wearing under a jacket with jeans.</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShirt8a.jpg",
+        "/products/maleShirt8b.jpg",
+        "/products/maleShirt8c.jpg",
+        "/products/maleShirt8d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "9bj2",
+      "name": "Men White Coloured Sole Sneakers",
+      "maincategory": "Men",
+      "subcategory": "Shoes",
+      "brand": "Puma",
+      "color": "White",
+      "size": "7",
+      "basePrice": 4385,
+      "discount": 8,
+      "finalPrice": 4230,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>This men's sneakers is an ideal pick for your weekend outings. And what's not to love about it, since it has the Comfy recycled Ortholite insoles, providing a great blend of comfort and durability. Whether you're wearing jeans or shorts, these blue sneakers go with everything! - Red Levi's logo tab - Self color - Navy lace detailing</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShoes1a.jpg",
+        "/products/maleShoes1b.jpg",
+        "/products/maleShoes1c.jpg",
+        "/products/maleShoes1d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "52je",
+      "name": "Men Coloured Lace-Up Sneakers",
+      "maincategory": "Men",
+      "subcategory": "Shoes",
+      "brand": "Zara",
+      "color": "Brown",
+      "size": "9",
+      "basePrice": 6999,
+      "discount": 8,
+      "finalPrice": 6659,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>This men's sneakers is an ideal pick for your weekend outings. And what's not to love about it, since it has the Comfy recycled Ortholite insoles, providing a great blend of comfort and durability. Whether you're wearing jeans or shorts, these blue sneakers go with everything! - Red Levi's logo tab - Self color - Navy lace detailing</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShoes2a.jpg",
+        "/products/maleShoes2b.jpg",
+        "/products/maleShoes2c.jpg",
+        "/products/maleShoes2d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "2hb3",
+      "name": "Men Coloured High-Top Sneakers",
+      "maincategory": "Men",
+      "subcategory": "Shoes",
+      "brand": "Puma",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 3479,
+      "discount": 12,
+      "finalPrice": 3289,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>This men's sneakers is an ideal pick for your weekend outings. And what's not to love about it, since it has the Comfy recycled Ortholite insoles, providing a great blend of comfort and durability. Whether you're wearing jeans or shorts, these blue sneakers go with everything! - Red Levi's logo tab - Self color - Navy lace detailing</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShoes3a.jpg",
+        "/products/maleShoes3b.jpg",
+        "/products/maleShoes3c.jpg",
+        "/products/maleShoes3d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "34je",
+      "name": "Men Lace-Up Formal Oxfords",
+      "maincategory": "Men",
+      "subcategory": "Shoes",
+      "brand": "Zara",
+      "color": "Brown",
+      "size": "9",
+      "basePrice": 8999,
+      "discount": 8,
+      "finalPrice": 8659,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>This men's sneakers is an ideal pick for your weekend outings. And what's not to love about it, since it has the Comfy recycled Ortholite insoles, providing a great blend of comfort and durability. Whether you're wearing jeans or shorts, these blue sneakers go with everything! - Red Levi's logo tab - Self color - Navy lace detailing</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShoes4a.jpg",
+        "/products/maleShoes4b.jpg",
+        "/products/maleShoes4c.jpg",
+        "/products/maleShoes4d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "939g",
+      "name": "Men Black Formal Penny Loafers",
+      "maincategory": "Men",
+      "subcategory": "Shoes",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 4295,
+      "discount": 12,
+      "finalPrice": 4099,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>This men's sneakers is an ideal pick for your weekend outings. And what's not to love about it, since it has the Comfy recycled Ortholite insoles, providing a great blend of comfort and durability. Whether you're wearing jeans or shorts, these blue sneakers go with everything! - Red Levi's logo tab - Self color - Navy lace detailing</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShoes5a.jpg",
+        "/products/maleShoes5b.jpg",
+        "/products/maleShoes5c.jpg",
+        "/products/maleShoes5d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "839g",
+      "name": "Men Printed Comfort Sneakers",
+      "maincategory": "Men",
+      "subcategory": "Shoes",
+      "brand": "Puma",
+      "color": "White",
+      "size": "7",
+      "basePrice": 2895,
+      "discount": 12,
+      "finalPrice": 2699,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>This men's sneakers is an ideal pick for your weekend outings. And what's not to love about it, since it has the Comfy recycled Ortholite insoles, providing a great blend of comfort and durability. Whether you're wearing jeans or shorts, these blue sneakers go with everything! - Red Levi's logo tab - Self color - Navy lace detailing</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShoes6a.jpg",
+        "/products/maleShoes6b.jpg",
+        "/products/maleShoes6c.jpg",
+        "/products/maleShoes6d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "439g",
+      "name": "Men Striped Comfort Sneakers",
+      "maincategory": "Men",
+      "subcategory": "Shoes",
+      "brand": "Tommy Hilfiger",
+      "color": "Black",
+      "size": "8",
+      "basePrice": 3479,
+      "discount": 25,
+      "finalPrice": 3680,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>This men's sneakers is an ideal pick for your weekend outings. And what's not to love about it, since it has the Comfy recycled Ortholite insoles, providing a great blend of comfort and durability. Whether you're wearing jeans or shorts, these blue sneakers go with everything! - Red Levi's logo tab - Self color - Navy lace detailing</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShoes7a.jpg",
+        "/products/maleShoes7b.jpg",
+        "/products/maleShoes7c.jpg",
+        "/products/maleShoes7d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "d39g",
+      "name": "Men Memory Foam Running Shoes",
+      "maincategory": "Men",
+      "subcategory": "Shoes",
+      "brand": "Puma",
+      "color": "Black",
+      "size": "8",
+      "basePrice": 1895,
+      "discount": 10,
+      "finalPrice": 1789,
+      "stock": true,
+      "quantity": 50,
+      "description": "<p>This men's sneakers is an ideal pick for your weekend outings. And what's not to love about it, since it has the Comfy recycled Ortholite insoles, providing a great blend of comfort and durability. Whether you're wearing jeans or shorts, these blue sneakers go with everything! - Red Levi's logo tab - Self color - Navy lace detailing</p>\r\n<ol><li>&nbsp;Must-have full sleeves shirt</li><li>&nbsp;Breathable cotton fabric</li><li>&nbsp;Stylish plaid pattern and comes in red color\n<br /></li></ol>\r\n<p><span style=\"font-weight: bold;\">Composition and care</span></p>\r\n<ul><li>&nbsp;77.5% Cotton Bci/20.8% Poly/1.7% Lycra</li><li>&nbsp;Machine wash cold - normal cycle. Wash inside out with like colors, do not bleach, tumble dry low, warm iron, do not dry clean, do not iron decoration</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details&nbsp;</span></p>\r\n<ul><li>&nbsp;Country Of Origin: India&nbsp;</li><li>&nbsp;Manufactured By: Arvind Smart Textiles Limited Arvind Limited Survey No 504 &amp; 506, Opp Pharma Sez Sarkej Bhavla Road, Matoda-382213 Plot No. 1,2,3,4,11,12 &amp; 13 382220 Ahmedabad India&nbsp;</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd; ITC Green Centre; Banaswadi Main Road; Maruthisevanagar; Bengaluru – 560005; India\n<br /></li></ul>",
+      "pic": [
+        "/products/maleShoes8a.jpg",
+        "/products/maleShoes8b.jpg",
+        "/products/maleShoes8c.jpg",
+        "/products/maleShoes8d.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "212b",
+      "name": "Ethnic Motifs Yoke Design Kurta",
+      "maincategory": "Women",
+      "subcategory": "Suits",
+      "brand": "Zara",
+      "color": "Red",
+      "size": "M",
+      "basePrice": 2199,
+      "discount": 12,
+      "finalPrice": 1935,
+      "stock": true,
+      "quantity": 30,
+      "description": "<p>This Brand bold and brilliant, ready to take on the world. Made of soft cotton and polyester fabric, this crew neck Top can be dressed up or down to fit any occasion. Regular fit makes it a great base layer.</p>\r\n\n\r\n<ol><li>Stylish puff sleeves&nbsp;</li><li>Comes in a shade of purple More than 140 years after inventing the blue jean, one thing is clear:&nbsp;</li><li>These clothes are loved by the people who wear them - from presidents to movie stars, farmers to fashion icons, entrepreneurs to everyman.</li></ol>\r\n\n\r\n<p><span style=\"font-weight: bold;\">\nMaterial &amp; Care</span></p>\r\n\n\r\n<ul><li>Top Fabric:Cotton Blend\\</li><li>&nbsp;Bottom Fabric: Cotton Blend</li><li>&nbsp;Dupatta Fabric: Poly Chiffon</li><li>&nbsp;Dry Clean<br /></li></ul>\r\n\n\r\n<p><span style=\"font-weight: bold;\">Additional Details\n<br /></span></p>\r\n\n\r\n<ul><li>Country Of Origin: India</li><li>&nbsp;Manufactured By: Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd, Itc Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India<br /></li></ul>",
+      "pic": [
+        "/products/womenSuits1a.jpg",
+        "/products/womenSuits1b.jpg",
+        "/products/womenSuits1c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "h32b",
+      "name": "Floral Yoke Design Pure Kurta",
+      "maincategory": "Women",
+      "subcategory": "Suits",
+      "brand": "Gucci",
+      "color": "Yellow",
+      "size": "M",
+      "basePrice": 2599,
+      "discount": 12,
+      "finalPrice": 2335,
+      "stock": true,
+      "quantity": 30,
+      "description": "<p>This Brand bold and brilliant, ready to take on the world. Made of soft cotton and polyester fabric, this crew neck Top can be dressed up or down to fit any occasion. Regular fit makes it a great base layer.</p>\r\n<ol><li>Stylish puff sleeves&nbsp;</li><li>Comes in a shade of purple More than 140 years after inventing the blue jean, one thing is clear:&nbsp;</li><li>These clothes are loved by the people who wear them - from presidents to movie stars, farmers to fashion icons, entrepreneurs to everyman.</li></ol>\r\n<p><span style=\"font-weight: bold;\">\nMaterial &amp; Care</span></p>\r\n<ul><li>Top Fabric:Cotton Blend\\</li><li>&nbsp;Bottom Fabric: Cotton Blend</li><li>&nbsp;Dupatta Fabric: Poly Chiffon</li><li>&nbsp;Dry Clean<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">Additional Details\n<br /></span></p>\r\n<ul><li>Country Of Origin: India</li><li>&nbsp;Manufactured By: Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd, Itc Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India<br /></li></ul>",
+      "pic": [
+        "/products/womenSuits2a.jpg",
+        "/products/womenSuits2b.jpg",
+        "/products/womenSuits2c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "86h2",
+      "name": "Women Black Ethnic Motifs Kurta",
+      "maincategory": "Women",
+      "subcategory": "Suits",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "L",
+      "basePrice": 1745,
+      "discount": 8,
+      "finalPrice": 1699,
+      "stock": true,
+      "quantity": 30,
+      "description": "<p>This Brand bold and brilliant, ready to take on the world. Made of soft cotton and polyester fabric, this crew neck Top can be dressed up or down to fit any occasion. Regular fit makes it a great base layer.</p>\r\n<ol><li>Stylish puff sleeves&nbsp;</li><li>Comes in a shade of purple More than 140 years after inventing the blue jean, one thing is clear:&nbsp;</li><li>These clothes are loved by the people who wear them - from presidents to movie stars, farmers to fashion icons, entrepreneurs to everyman.</li></ol>\r\n<p><span style=\"font-weight: bold;\">\nMaterial &amp; Care</span></p>\r\n<ul><li>Top Fabric:Cotton Blend\\</li><li>&nbsp;Bottom Fabric: Cotton Blend</li><li>&nbsp;Dupatta Fabric: Poly Chiffon</li><li>&nbsp;Dry Clean<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">Additional Details\n<br /></span></p>\r\n<ul><li>Country Of Origin: India</li><li>&nbsp;Manufactured By: Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd, Itc Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India<br /></li></ul>",
+      "pic": [
+        "/products/womenSuits3a.jpg",
+        "/products/womenSuits3b.jpg",
+        "/products/womenSuits3c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "84h2",
+      "name": "Floral Embroidered Thread Work Kurta",
+      "maincategory": "Women",
+      "subcategory": "Suits",
+      "brand": "Zara",
+      "color": "Purple",
+      "size": "M",
+      "basePrice": 1845,
+      "discount": 8,
+      "finalPrice": 1799,
+      "stock": true,
+      "quantity": 30,
+      "description": "<p>This Brand bold and brilliant, ready to take on the world. Made of soft cotton and polyester fabric, this crew neck Top can be dressed up or down to fit any occasion. Regular fit makes it a great base layer.</p>\r\n<ol><li>Stylish puff sleeves&nbsp;</li><li>Comes in a shade of purple More than 140 years after inventing the blue jean, one thing is clear:&nbsp;</li><li>These clothes are loved by the people who wear them - from presidents to movie stars, farmers to fashion icons, entrepreneurs to everyman.</li></ol>\r\n<p><span style=\"font-weight: bold;\">\nMaterial &amp; Care</span></p>\r\n<ul><li>Top Fabric:Cotton Blend\\</li><li>&nbsp;Bottom Fabric: Cotton Blend</li><li>&nbsp;Dupatta Fabric: Poly Chiffon</li><li>&nbsp;Dry Clean<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">Additional Details\n<br /></span></p>\r\n<ul><li>Country Of Origin: India</li><li>&nbsp;Manufactured By: Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd, Itc Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India<br /></li></ul>",
+      "pic": [
+        "/products/womenSuits4a.jpg",
+        "/products/womenSuits4b.jpg",
+        "/products/womenSuits4c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "2jk5",
+      "name": "Floral Printed Dupatta Kurta",
+      "maincategory": "Women",
+      "subcategory": "Suits",
+      "brand": "Zara",
+      "color": "Blue",
+      "size": "M",
+      "basePrice": 1950,
+      "discount": 10,
+      "finalPrice": 1899,
+      "stock": true,
+      "quantity": 30,
+      "description": "<p>This Brand bold and brilliant, ready to take on the world. Made of soft cotton and polyester fabric, this crew neck Top can be dressed up or down to fit any occasion. Regular fit makes it a great base layer.</p>\r\n<ol><li>Stylish puff sleeves&nbsp;</li><li>Comes in a shade of purple More than 140 years after inventing the blue jean, one thing is clear:&nbsp;</li><li>These clothes are loved by the people who wear them - from presidents to movie stars, farmers to fashion icons, entrepreneurs to everyman.</li></ol>\r\n<p><span style=\"font-weight: bold;\">\nMaterial &amp; Care</span></p>\r\n<ul><li>Top Fabric:Cotton Blend\\</li><li>&nbsp;Bottom Fabric: Cotton Blend</li><li>&nbsp;Dupatta Fabric: Poly Chiffon</li><li>&nbsp;Dry Clean<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">Additional Details\n<br /></span></p>\r\n<ul><li>Country Of Origin: India</li><li>&nbsp;Manufactured By: Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd, Itc Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India<br /></li></ul>",
+      "pic": [
+        "/products/womenSuits5a.jpg",
+        "/products/womenSuits5b.jpg",
+        "/products/womenSuits5c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "2g32",
+      "name": "Ethnic Motifs Embroider Sleeves",
+      "maincategory": "Women",
+      "subcategory": "Suits",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "L",
+      "basePrice": 1439,
+      "discount": 20,
+      "finalPrice": 1189,
+      "stock": true,
+      "quantity": 30,
+      "description": "<p>This Brand bold and brilliant, ready to take on the world. Made of soft cotton and polyester fabric, this crew neck Top can be dressed up or down to fit any occasion. Regular fit makes it a great base layer.</p>\r\n<ol><li>Stylish puff sleeves&nbsp;</li><li>Comes in a shade of purple More than 140 years after inventing the blue jean, one thing is clear:&nbsp;</li><li>These clothes are loved by the people who wear them - from presidents to movie stars, farmers to fashion icons, entrepreneurs to everyman.</li></ol>\r\n<p><span style=\"font-weight: bold;\">\nMaterial &amp; Care</span></p>\r\n<ul><li>Top Fabric:Cotton Blend\\</li><li>&nbsp;Bottom Fabric: Cotton Blend</li><li>&nbsp;Dupatta Fabric: Poly Chiffon</li><li>&nbsp;Dry Clean<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">Additional Details\n<br /></span></p>\r\n<ul><li>Country Of Origin: India</li><li>&nbsp;Manufactured By: Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd, Itc Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India<br /></li></ul>",
+      "pic": [
+        "/products/womenSuits6a.jpg",
+        "/products/womenSuits6b.jpg",
+        "/products/womenSuits6c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "0ttd",
+      "name": "Abstract Printed Round Neck Kurta",
+      "maincategory": "Women",
+      "subcategory": "Suits",
+      "brand": "Zara",
+      "color": "Orange",
+      "size": "M",
+      "basePrice": 1685,
+      "discount": 8,
+      "finalPrice": 1599,
+      "stock": true,
+      "quantity": 30,
+      "description": "<p>This Brand bold and brilliant, ready to take on the world. Made of soft cotton and polyester fabric, this crew neck Top can be dressed up or down to fit any occasion. Regular fit makes it a great base layer.</p>\r\n<ol><li>Stylish puff sleeves&nbsp;</li><li>Comes in a shade of purple More than 140 years after inventing the blue jean, one thing is clear:&nbsp;</li><li>These clothes are loved by the people who wear them - from presidents to movie stars, farmers to fashion icons, entrepreneurs to everyman.</li></ol>\r\n<p><span style=\"font-weight: bold;\">\nMaterial &amp; Care</span></p>\r\n<ul><li>Top Fabric:Cotton Blend\\</li><li>&nbsp;Bottom Fabric: Cotton Blend</li><li>&nbsp;Dupatta Fabric: Poly Chiffon</li><li>&nbsp;Dry Clean<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">Additional Details\n<br /></span></p>\r\n<ul><li>Country Of Origin: India</li><li>&nbsp;Manufactured By: Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd, Itc Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India<br /></li></ul>",
+      "pic": [
+        "/products/womenSuits7a.jpg",
+        "/products/womenSuits7b.jpg",
+        "/products/womenSuits7c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "g52k",
+      "name": "Women Beige Floral Printed Kurta",
+      "maincategory": "Women",
+      "subcategory": "Suits",
+      "brand": "Zara",
+      "color": "Red",
+      "size": "M",
+      "basePrice": 1845,
+      "discount": 8,
+      "finalPrice": 1799,
+      "stock": true,
+      "quantity": 30,
+      "description": "<p>This Brand bold and brilliant, ready to take on the world. Made of soft cotton and polyester fabric, this crew neck Top can be dressed up or down to fit any occasion. Regular fit makes it a great base layer.</p>\r\n<ol><li>Stylish puff sleeves&nbsp;</li><li>Comes in a shade of purple More than 140 years after inventing the blue jean, one thing is clear:&nbsp;</li><li>These clothes are loved by the people who wear them - from presidents to movie stars, farmers to fashion icons, entrepreneurs to everyman.</li></ol>\r\n<p><span style=\"font-weight: bold;\">\nMaterial &amp; Care</span></p>\r\n<ul><li>Top Fabric:Cotton Blend\\</li><li>&nbsp;Bottom Fabric: Cotton Blend</li><li>&nbsp;Dupatta Fabric: Poly Chiffon</li><li>&nbsp;Dry Clean<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">Additional Details\n<br /></span></p>\r\n<ul><li>Country Of Origin: India</li><li>&nbsp;Manufactured By: Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed By: Levi Strauss India Pvt. Ltd, Itc Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India<br /></li></ul>",
+      "pic": [
+        "/products/womenSuits8a.jpg",
+        "/products/womenSuits8b.jpg",
+        "/products/womenSuits8c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "c712",
+      "name": "Printed Block Heel Mules",
+      "maincategory": "Women",
+      "subcategory": "Heels",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 1595,
+      "discount": 14,
+      "finalPrice": 1371,
+      "stock": true,
+      "quantity": 45,
+      "description": "<p>Put a stylish spin to your shoe closet with the Fashion Fabric's Sneakers. They are made from a high-quality pu blend upper and a TPR sole for a comfortable fit. Pair these Black sneakers with a trendy tee and well-tailored jeans for a day out with the girls.</p>\r\n<p><span style=\"font-weight: bold;\">Fit and sizing</span></p>\r\n<ul><li>&nbsp;Closure type: Lace-up</li><li>&nbsp;Suitable for casual wear&nbsp;</li><li>Tip shape: Round<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">\r\nAdditional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India\r\nManufactured by: Levi's Footwear&amp;Accessories (Ch) Sa, Stabile 2 Entr B, Via Alla Campagna 2B, 6934 Bioggio, Switzerland<br /></li><li>Marketed by: Levi Strauss India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\r\n<br /></li></ul>",
+      "pic": [
+        "/products/womenHeels1a.jpg",
+        "/products/womenHeels1b.jpg",
+        "/products/womenHeels1c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "34j2",
+      "name": "Colourblocked Kitten Heels",
+      "maincategory": "Women",
+      "subcategory": "Heels",
+      "brand": "Gucci",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 1295,
+      "discount": 14,
+      "finalPrice": 1171,
+      "stock": true,
+      "quantity": 45,
+      "description": "<p>Put a stylish spin to your shoe closet with the Fashion Fabric's Sneakers. They are made from a high-quality pu blend upper and a TPR sole for a comfortable fit. Pair these Black sneakers with a trendy tee and well-tailored jeans for a day out with the girls.</p>\r\n<p><span style=\"font-weight: bold;\">Fit and sizing</span></p>\r\n<ul><li>&nbsp;Closure type: Lace-up</li><li>&nbsp;Suitable for casual wear&nbsp;</li><li>Tip shape: Round<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">\r\nAdditional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India\r\nManufactured by: Levi's Footwear&amp;Accessories (Ch) Sa, Stabile 2 Entr B, Via Alla Campagna 2B, 6934 Bioggio, Switzerland<br /></li><li>Marketed by: Levi Strauss India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\r\n<br /></li></ul>",
+      "pic": [
+        "/products/womenHeels2a.jpg",
+        "/products/womenHeels2b.jpg",
+        "/products/womenHeels2c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "7bu2",
+      "name": "Black Printed Kitten Pumps",
+      "maincategory": "Women",
+      "subcategory": "Heels",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "8",
+      "basePrice": 1739,
+      "discount": 18,
+      "finalPrice": 1669,
+      "stock": true,
+      "quantity": 45,
+      "description": "<p>Put a stylish spin to your shoe closet with the Fashion Fabric's Sneakers. They are made from a high-quality pu blend upper and a TPR sole for a comfortable fit. Pair these Black sneakers with a trendy tee and well-tailored jeans for a day out with the girls.</p>\r\n<p><span style=\"font-weight: bold;\">Fit and sizing</span></p>\r\n<ul><li>&nbsp;Closure type: Lace-up</li><li>&nbsp;Suitable for casual wear&nbsp;</li><li>Tip shape: Round<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">\r\nAdditional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India\r\nManufactured by: Levi's Footwear&amp;Accessories (Ch) Sa, Stabile 2 Entr B, Via Alla Campagna 2B, 6934 Bioggio, Switzerland<br /></li><li>Marketed by: Levi Strauss India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\r\n<br /></li></ul>",
+      "pic": [
+        "/products/womenHeels3a.jpg",
+        "/products/womenHeels3b.jpg",
+        "/products/womenHeels3c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "j822",
+      "name": "Open Toe Block Heels Backstrap",
+      "maincategory": "Women",
+      "subcategory": "Heels",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 1299,
+      "discount": 15,
+      "finalPrice": 1099,
+      "stock": true,
+      "quantity": 45,
+      "description": "<p>Put a stylish spin to your shoe closet with the Fashion Fabric's Sneakers. They are made from a high-quality pu blend upper and a TPR sole for a comfortable fit. Pair these Black sneakers with a trendy tee and well-tailored jeans for a day out with the girls.</p>\r\n<p><span style=\"font-weight: bold;\">Fit and sizing</span></p>\r\n<ul><li>&nbsp;Closure type: Lace-up</li><li>&nbsp;Suitable for casual wear&nbsp;</li><li>Tip shape: Round<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">\r\nAdditional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India\r\nManufactured by: Levi's Footwear&amp;Accessories (Ch) Sa, Stabile 2 Entr B, Via Alla Campagna 2B, 6934 Bioggio, Switzerland<br /></li><li>Marketed by: Levi Strauss India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\r\n<br /></li></ul>",
+      "pic": [
+        "/products/womenHeels4a.jpg",
+        "/products/womenHeels4b.jpg",
+        "/products/womenHeels4c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "0oj2",
+      "name": "Black Kitten Sandals",
+      "maincategory": "Women",
+      "subcategory": "Heels",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 1470,
+      "discount": 5,
+      "finalPrice": 1439,
+      "stock": true,
+      "quantity": 45,
+      "description": "<p>Put a stylish spin to your shoe closet with the Fashion Fabric's Sneakers. They are made from a high-quality pu blend upper and a TPR sole for a comfortable fit. Pair these Black sneakers with a trendy tee and well-tailored jeans for a day out with the girls.</p>\r\n<p><span style=\"font-weight: bold;\">Fit and sizing</span></p>\r\n<ul><li>&nbsp;Closure type: Lace-up</li><li>&nbsp;Suitable for casual wear&nbsp;</li><li>Tip shape: Round<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">\r\nAdditional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India\r\nManufactured by: Levi's Footwear&amp;Accessories (Ch) Sa, Stabile 2 Entr B, Via Alla Campagna 2B, 6934 Bioggio, Switzerland<br /></li><li>Marketed by: Levi Strauss India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\r\n<br /></li></ul>",
+      "pic": [
+        "/products/womenHeels5a.jpg",
+        "/products/womenHeels5b.jpg",
+        "/products/womenHeels5c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "h632",
+      "name": "Black Textured Pointed Heel Mules",
+      "maincategory": "Women",
+      "subcategory": "Heels",
+      "brand": "Gucci",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 2759,
+      "discount": 20,
+      "finalPrice": 2580,
+      "stock": true,
+      "quantity": 45,
+      "description": "<p>Put a stylish spin to your shoe closet with the Fashion Fabric's Sneakers. They are made from a high-quality pu blend upper and a TPR sole for a comfortable fit. Pair these Black sneakers with a trendy tee and well-tailored jeans for a day out with the girls.</p>\r\n<p><span style=\"font-weight: bold;\">Fit and sizing</span></p>\r\n<ul><li>&nbsp;Closure type: Lace-up</li><li>&nbsp;Suitable for casual wear&nbsp;</li><li>Tip shape: Round<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">\r\nAdditional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India\r\nManufactured by: Levi's Footwear&amp;Accessories (Ch) Sa, Stabile 2 Entr B, Via Alla Campagna 2B, 6934 Bioggio, Switzerland<br /></li><li>Marketed by: Levi Strauss India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\r\n<br /></li></ul>",
+      "pic": [
+        "/products/womenHeels6a.jpg",
+        "/products/womenHeels6b.jpg",
+        "/products/womenHeels6c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "k91h",
+      "name": "Pointed Textured Kitten Pumps",
+      "maincategory": "Women",
+      "subcategory": "Heels",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "8",
+      "basePrice": 1280,
+      "discount": 14,
+      "finalPrice": 1185,
+      "stock": true,
+      "quantity": 45,
+      "description": "<p>Put a stylish spin to your shoe closet with the Fashion Fabric's Sneakers. They are made from a high-quality pu blend upper and a TPR sole for a comfortable fit. Pair these Black sneakers with a trendy tee and well-tailored jeans for a day out with the girls.</p>\r\n<p><span style=\"font-weight: bold;\">Fit and sizing</span></p>\r\n<ul><li>&nbsp;Closure type: Lace-up</li><li>&nbsp;Suitable for casual wear&nbsp;</li><li>Tip shape: Round<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">\r\nAdditional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India\r\nManufactured by: Levi's Footwear&amp;Accessories (Ch) Sa, Stabile 2 Entr B, Via Alla Campagna 2B, 6934 Bioggio, Switzerland<br /></li><li>Marketed by: Levi Strauss India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\r\n<br /></li></ul>",
+      "pic": [
+        "/products/womenHeels7a.jpg",
+        "/products/womenHeels7b.jpg",
+        "/products/womenHeels7c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "yu62",
+      "name": "Embellished Pointed Toe Heeled Pumps",
+      "maincategory": "Women",
+      "subcategory": "Heels",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "7",
+      "basePrice": 1780,
+      "discount": 14,
+      "finalPrice": 1690,
+      "stock": true,
+      "quantity": 45,
+      "description": "<p>Put a stylish spin to your shoe closet with the Fashion Fabric's Sneakers. They are made from a high-quality pu blend upper and a TPR sole for a comfortable fit. Pair these Black sneakers with a trendy tee and well-tailored jeans for a day out with the girls.</p>\r\n<p><span style=\"font-weight: bold;\">Fit and sizing</span></p>\r\n<ul><li>&nbsp;Closure type: Lace-up</li><li>&nbsp;Suitable for casual wear&nbsp;</li><li>Tip shape: Round<br /></li></ul>\r\n<p><span style=\"font-weight: bold;\">\r\nAdditional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India\r\nManufactured by: Levi's Footwear&amp;Accessories (Ch) Sa, Stabile 2 Entr B, Via Alla Campagna 2B, 6934 Bioggio, Switzerland<br /></li><li>Marketed by: Levi Strauss India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\r\n<br /></li></ul>",
+      "pic": [
+        "/products/womenHeels8a.jpg",
+        "/products/womenHeels8b.jpg",
+        "/products/womenHeels8c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "9dff",
+      "name": "Boys Graphic Printed T-shirt",
+      "maincategory": "Kids",
+      "subcategory": "T-shirt",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "S",
+      "basePrice": 1200,
+      "discount": 5,
+      "finalPrice": 1140,
+      "stock": true,
+      "quantity": 40,
+      "description": "<p>Made from good quality pure cotton, this easygoing Fashion Fabric's t-shirt is perfect to add to your casual collection. Depending on how you want to play around with your style, you can layer it with shirts or wear it on its own with a pair of denim.</p>\r\n<ul><li>&nbsp;Features a crew neck and a graphic pattern</li><li>&nbsp;A regular fit provides comfort all day long</li><li>&nbsp;Comes in the color white</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Fit and sizing</span></p>\r\n<ul><li>&nbsp;Short Sleeves,\nRegular Fit</li><li>&nbsp;Crew Neck,\nPattren: Graphic</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India</li><li>&nbsp;Manufactured by:Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed by: Fashion Fabric India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\n<br /></li></ul>",
+      "pic": [
+        "/products/kidsT1a.jpg",
+        "/products/kidsT1b.jpg",
+        "/products/kidsT1c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "7bu3",
+      "name": "Boys Printed Pure T-shirt",
+      "maincategory": "Kids",
+      "subcategory": "T-shirt",
+      "brand": "Nike",
+      "color": "Red",
+      "size": "S",
+      "basePrice": 1100,
+      "discount": 5,
+      "finalPrice": 1089,
+      "stock": true,
+      "quantity": 40,
+      "description": "<p>Made from good quality pure cotton, this easygoing Fashion Fabric's t-shirt is perfect to add to your casual collection. Depending on how you want to play around with your style, you can layer it with shirts or wear it on its own with a pair of denim.</p>\r\n<ul><li>&nbsp;Features a crew neck and a graphic pattern</li><li>&nbsp;A regular fit provides comfort all day long</li><li>&nbsp;Comes in the color white</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Fit and sizing</span></p>\r\n<ul><li>&nbsp;Short Sleeves,\nRegular Fit</li><li>&nbsp;Crew Neck,\nPattren: Graphic</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India</li><li>&nbsp;Manufactured by:Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed by: Fashion Fabric India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\n<br /></li></ul>",
+      "pic": [
+        "/products/kidsT2a.jpg",
+        "/products/kidsT2b.jpg",
+        "/products/kidsT2c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "kis2",
+      "name": "Boys Cotton Printed T-shirt",
+      "maincategory": "Kids",
+      "subcategory": "T-shirt",
+      "brand": "Nike",
+      "color": "White",
+      "size": "S",
+      "basePrice": 900,
+      "discount": 5,
+      "finalPrice": 840,
+      "stock": true,
+      "quantity": 40,
+      "description": "<p>Made from good quality pure cotton, this easygoing Fashion Fabric's t-shirt is perfect to add to your casual collection. Depending on how you want to play around with your style, you can layer it with shirts or wear it on its own with a pair of denim.</p>\r\n<ul><li>&nbsp;Features a crew neck and a graphic pattern</li><li>&nbsp;A regular fit provides comfort all day long</li><li>&nbsp;Comes in the color white</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Fit and sizing</span></p>\r\n<ul><li>&nbsp;Short Sleeves,\nRegular Fit</li><li>&nbsp;Crew Neck,\nPattren: Graphic</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India</li><li>&nbsp;Manufactured by:Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed by: Fashion Fabric India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\n<br /></li></ul>",
+      "pic": [
+        "/products/kidsT3a.jpg",
+        "/products/kidsT3b.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "4h92",
+      "name": "Boys Floral Printed T-shirt",
+      "maincategory": "Kids",
+      "subcategory": "T-shirt",
+      "brand": "Nike",
+      "color": "White",
+      "size": "S",
+      "basePrice": 1299,
+      "discount": 8,
+      "finalPrice": 1145,
+      "stock": true,
+      "quantity": 40,
+      "description": "<p>Made from good quality pure cotton, this easygoing Fashion Fabric's t-shirt is perfect to add to your casual collection. Depending on how you want to play around with your style, you can layer it with shirts or wear it on its own with a pair of denim.</p>\r\n<ul><li>&nbsp;Features a crew neck and a graphic pattern</li><li>&nbsp;A regular fit provides comfort all day long</li><li>&nbsp;Comes in the color white</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Fit and sizing</span></p>\r\n<ul><li>&nbsp;Short Sleeves,\nRegular Fit</li><li>&nbsp;Crew Neck,\nPattren: Graphic</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India</li><li>&nbsp;Manufactured by:Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed by: Fashion Fabric India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\n<br /></li></ul>",
+      "pic": [
+        "/products/kidsT4a.jpg",
+        "/products/kidsT4b.jpg",
+        "/products/kidsT4c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "5jiw",
+      "name": "Boys Typography Printed T-shirt",
+      "maincategory": "Kids",
+      "subcategory": "T-shirt",
+      "brand": "Nike",
+      "color": "White",
+      "size": "S",
+      "basePrice": 1089,
+      "discount": 5,
+      "finalPrice": 999,
+      "stock": true,
+      "quantity": 40,
+      "description": "<p>Made from good quality pure cotton, this easygoing Fashion Fabric's t-shirt is perfect to add to your casual collection. Depending on how you want to play around with your style, you can layer it with shirts or wear it on its own with a pair of denim.</p>\r\n<ul><li>&nbsp;Features a crew neck and a graphic pattern</li><li>&nbsp;A regular fit provides comfort all day long</li><li>&nbsp;Comes in the color white</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Fit and sizing</span></p>\r\n<ul><li>&nbsp;Short Sleeves,\nRegular Fit</li><li>&nbsp;Crew Neck,\nPattren: Graphic</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India</li><li>&nbsp;Manufactured by:Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed by: Fashion Fabric India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\n<br /></li></ul>",
+      "pic": [
+        "/products/kidsT5a.jpg",
+        "/products/kidsT5b.jpg",
+        "/products/kidsT5c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "6h82",
+      "name": "Boys Striped Pure T-shirt",
+      "maincategory": "Kids",
+      "subcategory": "T-shirt",
+      "brand": "Nike",
+      "color": "White",
+      "size": "S",
+      "basePrice": 1200,
+      "discount": 5,
+      "finalPrice": 1140,
+      "stock": true,
+      "quantity": 40,
+      "description": "<p>Made from good quality pure cotton, this easygoing Fashion Fabric's t-shirt is perfect to add to your casual collection. Depending on how you want to play around with your style, you can layer it with shirts or wear it on its own with a pair of denim.</p>\r\n<ul><li>&nbsp;Features a crew neck and a graphic pattern</li><li>&nbsp;A regular fit provides comfort all day long</li><li>&nbsp;Comes in the color white</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Fit and sizing</span></p>\r\n<ul><li>&nbsp;Short Sleeves,\nRegular Fit</li><li>&nbsp;Crew Neck,\nPattren: Graphic</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India</li><li>&nbsp;Manufactured by:Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed by: Fashion Fabric India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\n<br /></li></ul>",
+      "pic": [
+        "/products/kidsT6a.jpg",
+        "/products/kidsT6b.jpg",
+        "/products/kidsT6c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "7h82",
+      "name": "Boys Dinosaur Printed T-shirt",
+      "maincategory": "Kids",
+      "subcategory": "T-shirt",
+      "brand": "Nike",
+      "color": "White",
+      "size": "S",
+      "basePrice": 1599,
+      "discount": 10,
+      "finalPrice": 1489,
+      "stock": true,
+      "quantity": 40,
+      "description": "<p>Made from good quality pure cotton, this easygoing Fashion Fabric's t-shirt is perfect to add to your casual collection. Depending on how you want to play around with your style, you can layer it with shirts or wear it on its own with a pair of denim.</p>\r\n<ul><li>&nbsp;Features a crew neck and a graphic pattern</li><li>&nbsp;A regular fit provides comfort all day long</li><li>&nbsp;Comes in the color white</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Fit and sizing</span></p>\r\n<ul><li>&nbsp;Short Sleeves,\nRegular Fit</li><li>&nbsp;Crew Neck,\nPattren: Graphic</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India</li><li>&nbsp;Manufactured by:Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed by: Fashion Fabric India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\n<br /></li></ul>",
+      "pic": [
+        "/products/kidsT7a.jpg",
+        "/products/kidsT7b.jpg",
+        "/products/kidsT7c.jpg"
+      ],
+      "active": true
+    },
+    {
+      "id": "8g72",
+      "name": "Boys Graphic Printed T-shirt",
+      "maincategory": "Kids",
+      "subcategory": "T-shirt",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "S",
+      "basePrice": 1200,
+      "discount": 5,
+      "finalPrice": 1140,
+      "stock": true,
+      "quantity": 40,
+      "description": "<p>Made from good quality pure cotton, this easygoing Fashion Fabric's t-shirt is perfect to add to your casual collection. Depending on how you want to play around with your style, you can layer it with shirts or wear it on its own with a pair of denim.</p>\r\n<ul><li>&nbsp;Features a crew neck and a graphic pattern</li><li>&nbsp;A regular fit provides comfort all day long</li><li>&nbsp;Comes in the color white</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Fit and sizing</span></p>\r\n<ul><li>&nbsp;Short Sleeves,\nRegular Fit</li><li>&nbsp;Crew Neck,\nPattren: Graphic</li></ul>\r\n<p><span style=\"font-weight: bold;\">&nbsp;Additional Details</span></p>\r\n<ul><li>&nbsp;Country of Origin: India</li><li>&nbsp;Manufactured by:Sri Lakshmi Clothings T.K.T.Mill ,Tirupur 330/1, Sri Gokula Krishna Nagar, T.K.T.Mill ,Tirupur T.K.T.Mill ,Tirupur 641605 Tiruppur India</li><li>&nbsp;Marketed by: Fashion Fabric India Pvt. Ltd, ITC Green Centre, Banaswadi Main Road, Maruthisevanagar, Bengaluru Ð 560005, India\n<br /></li></ul>",
+      "pic": [
+        "/products/kidsT8a.jpg",
+        "/products/kidsT8b.jpg",
+        "/products/kidsT8c.jpg"
+      ],
+      "active": true
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "e662",
+      "name": "James Smith",
+      "message": "I recently bought a summer dress from Fashion Fabircs and I'm absolutely in love with it! The quality is fantastic, and it fits perfectly. The customer service was top-notch, ensuring I received my order quickly and hassle-free. I’ve already received so many compliments and can't wait to shop here again. Highly recommend to all fashion lovers!",
+      "pic": "/testimonials/testimonial-4.jpg",
+      "active": true
+    },
+    {
+      "id": "aa00",
+      "name": "Maria Garcia",
+      "message": "Shopping at Fashion Fabrics Store has been a delightful experience. The website is user-friendly, and the clothing selection is both trendy and diverse. My recent purchase, a stylish blazer, exceeded my expectations in both quality and fit. Delivery was swift, and the packaging was impressive. I'll definitely be coming back for more!",
+      "pic": "/testimonials/testimonial-1.jpg",
+      "active": true
+    },
+    {
+      "id": "0923",
+      "name": "Christopher Jones",
+      "message": "I’m so pleased with my new wardrobe additions! The fabrics are luxurious, and the designs are spot on with current trends. The size guide was accurate, and everything fits like a dream. The whole process from browsing to delivery was seamless. Highly recommend for anyone looking to update their closet",
+      "pic": "/testimonials/testimonial-9.jpg",
+      "active": true
+    },
+    {
+      "id": "8e69",
+      "name": "Emily Taylor",
+      "message": "Fashion Fabric Store is a gem for fashion enthusiasts! I recently bought a beautiful evening dress, and it's even better in person. The fabric feels luxurious, and the fit is perfect. The entire shopping experience, from browsing to delivery, was smooth and enjoyable. I’m already planning my next purchase!",
+      "pic": "/testimonials/testimonial-3.jpg",
+      "active": true
+    },
+    {
+      "id": "3ce4",
+      "name": "Joseph Wilson",
+      "message": "Absolutely love! My new cardigan is cozy, stylish, and exactly what I was looking for. The quality is top-notch, and it arrived sooner than expected. Customer service was very responsive and helpful. This will definitely be my go-to for all future clothing purchases!",
+      "pic": "/testimonials/testimonial-2.jpg",
+      "active": true
+    },
+    {
+      "id": "d148",
+      "name": "Sophia White",
+      "message": "I had a fantastic shopping experience. The variety of styles available is impressive, and my new jacket is a standout piece in my wardrobe. It’s well-made and fits like a glove. The delivery was fast, and the packaging was eco-friendly. Can't wait to shop here again!",
+      "pic": "/testimonials/testimonial-7.jpg",
+      "active": true
+    }
+  ],
+  "user": [
+    {
+      "name": "Rahul Rajput",
+      "phone": "9988776655",
+      "address": "C101, Noida",
+      "pin": "110221",
+      "city": "Noida",
+      "state": "UTTAR PRADESH",
+      "pic": "/products/maleShirt3a.jpg",
+      "id": "74f4",
+      "username": "rahulrajput23",
+      "email": "rahulrajput23@gmail.com",
+      "password": "Rahulrajput23",
+      "role": "Buyer"
+    },
+    {
+      "name": "Himanshu Sharma",
+      "phone": "9876598765",
+      "address": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "/products/maleShirt7a.jpg",
+      "id": "e9e2",
+      "username": "HimanshuAdmin11",
+      "email": "HimanshuAdmin11@gmail.com",
+      "password": "HimanshuAdmin11",
+      "role": "Admin"
+    }
+  ],
   "cart": [],
   "wishlist": [],
   "chekout": [],
